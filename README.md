@@ -11,7 +11,7 @@ I'm currently working on Turing<br>I’m currently learning C++ & Rust
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vikk-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vikk-17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikk-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikk-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=Vikk-17)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
