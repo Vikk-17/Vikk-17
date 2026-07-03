@@ -10,7 +10,6 @@ Building fast, reliable backend systems with Rust.
 
 </div>
 
----
 
 ## About Me
 
