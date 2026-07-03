@@ -1,31 +1,146 @@
-## Hi there 👋
-# 💫 About Me:
-Currently working on Solana & Rust<br>
+<div align="center">
 
+# Hi, I'm Souvik Chakraborty 👋
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Final_Translator_284) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22623727) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/@rusty_dude_404](https://x.com/rusty_dude_404)) 
+### Backend Engineer • Rust Enthusiast • Systems Programming
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vikk-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Vikk-17&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikk-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+Building fast, reliable backend systems with Rust.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!--
-**Vikk-17/Vikk-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Portfolio](#) • [LinkedIn](#) • [X / Twitter](#) • [Email](mailto:your@email.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a backend engineer focused on building scalable APIs, distributed systems, and developer infrastructure.
+
+My primary language is **Rust**, and I'm interested in:
+
+- ⚙️ High-performance backend systems
+- 🦀 Rust ecosystem
+- 🌐 Distributed systems
+- 🔌 GraphQL APIs
+- 🗄 PostgreSQL & SQLx
+- 🚀 Async programming with Tokio
+- 🐳 Docker & DevOps
+- ⛓ Blockchain infrastructure
+
+Currently learning:
+
+- System Design
+- Rust internals
+- Networking
+- Database internals
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+### Backend
+
+![Actix](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge)
+![Tokio](https://img.shields.io/badge/Tokio-EF4444?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![SQLx](https://img.shields.io/badge/SQLx-000000?style=for-the-badge)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## Current Focus
+
+```text
+Rust ██████████████████████ 100%
+
+Backend Engineering
+██████████████████████░░
+
+Distributed Systems
+█████████████████░░░░░░
+
+System Design
+██████████░░░░░░░░░░░░░
+
+Blockchain Infrastructure
+███████████████░░░░░░░░
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikk-17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikk-17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vikk-17&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikk-17&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## Currently Working On
+
+- Building production-grade Rust backends
+- Solving Codeforces problems using Rust
+- Learning distributed systems
+- Reading Rust internals
+- Contributing to open source
+
+---
+
+## Philosophy
+
+> Programs should be simple.
+
+> Systems should be reliable.
+
+> Performance should be intentional.
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+⭐ If you like my work, consider following.
+
+</div>
