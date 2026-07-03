@@ -85,11 +85,8 @@ Blockchain Infrastructure
 ## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikk-17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikk-17&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Vikk-17&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Vikk-17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,11 +130,3 @@ Blockchain Infrastructure
 > Performance should be intentional.
 
 ---
-
-<div align="center">
-
-### Thanks for visiting!
-
-⭐ If you like my work, consider following.
-
-</div>
