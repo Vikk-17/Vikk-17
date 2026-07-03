@@ -2,7 +2,7 @@
 
 # Hi, I'm Souvik Chakraborty 👋
 
-### Backend Engineer • Rust Enthusiast • Systems Programming
+### Backend Engineer • Rust DEV • Systems Programming
 
 Building fast, reliable backend systems with Rust.
 
