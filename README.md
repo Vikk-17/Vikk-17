@@ -8,8 +8,6 @@ Building fast, reliable backend systems with Rust.
 
 ---
 
-[Portfolio](#) • [LinkedIn](#) • [X / Twitter](#) • [Email](mailto:your@email.com)
-
 </div>
 
 ---
