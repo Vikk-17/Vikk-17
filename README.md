@@ -120,13 +120,3 @@ Blockchain Infrastructure
 - Contributing to open source
 
 ---
-
-## Philosophy
-
-> Programs should be simple.
-
-> Systems should be reliable.
-
-> Performance should be intentional.
-
----
