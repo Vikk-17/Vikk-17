@@ -85,7 +85,9 @@ Blockchain Infrastructure
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Vikk-17&theme=tokyonight&show_icons=true&hide_border=true" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=gotham&fontFamily=Iosevka&preferLogin=true">
+    <img  alt="Vikk-17's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vikk-17?cardType=level&theme=gotham&fontFamily=Iosevka&preferLogin=true" />
+  </a>
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Vikk-17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
