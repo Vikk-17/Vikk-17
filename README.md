@@ -121,8 +121,4 @@ Blockchain Infrastructure
 - Reading Rust internals
 - Contributing to open source
 
-
-## Test
-[![Top Langs](https://vercel.app)](https://github.com/Vikk-17)
-
 ---
